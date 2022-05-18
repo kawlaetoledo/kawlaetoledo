@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Looking for Front-End Jobs
+- 🔭 Looking for Front-End jobs
 - 🌱 Studying JavaScript
 - 📫 kawtoledo@gmail.com
 
