@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Looking for Front-End jobs
-- 🌱 Studying TypeScript, React and Python.
+- 🌱 Studying TypeScript, React and Python
 - 📫 kawtoledo@gmail.com
 
 <div align="center">
